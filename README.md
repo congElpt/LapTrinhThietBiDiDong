@@ -6,4 +6,4 @@
 ## Kết quả chạy
 Hình ảnh bên dưới là kết quả chạy ứng dụng trên thiết bị:
 
-![Kết quả chạy](./screenshots/result.png)
+![Kết quả chạy](/screenshots/result.png)
